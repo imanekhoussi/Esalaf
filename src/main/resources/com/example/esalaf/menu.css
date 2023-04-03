@@ -1,0 +1,14 @@
+
+
+.cool-button {
+    -fx-background-color: #4286f4;
+    -fx-text-fill: white;
+    -fx-font-size: 14pt;
+    -fx-font-family: Arial;
+}
+
+.big-title {
+    -fx-font-size: 48pt;
+    -fx-font-family: Arial;
+    -fx-text-fill: blue;
+}
